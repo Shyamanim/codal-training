@@ -1,7 +1,6 @@
 #%% md
- It is an assignment operator (in python 3.8) which also returns the value which was assigned.
-
-Can be used inside expressions like if statements, while loops, and list comprehensions.
+ #It is an assignment operator (in python 3.8) which also returns the value which was assigned.
+#Can be used inside expressions like if statements, while loops, and list comprehensions.
 #%%
 # without Walrus Operator
 foods = list()
